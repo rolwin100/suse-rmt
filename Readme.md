@@ -1,6 +1,6 @@
 # Suse -  SCC Frontend Task
 
-This project is the task related to [https://gist.github.com/digitaltom/04dfcf8e5855aa403f955d2bce2b16e0](Github-repo)
+This project is the task related to [Github-repo](https://gist.github.com/digitaltom/04dfcf8e5855aa403f955d2bce2b16e0)
 
 ## Setup 
 
